@@ -1,0 +1,11 @@
+index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-11-26T03:37:00+00:00,Cyprus,0.7431017510668735,0,2,el,MED,Europe
+'454d379110',extremes,Thunderstorm,#53785a,wmo,καταιγίδα Κύπρος,2025-12-07T03:47:00+00:00,Cyprus,0.7394055772462531,0,2,el,MED,Europe
+'6fd5acddee',extremes,Storm,#b3b2b1,wmo,καταιγίδα ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.7172891809502402,0,2,el,MED,Europe
+'47a71b6762',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα στην Ελλάδα,2025-11-22T03:28:00+00:00,Greece,0.7086927953554601,0,2,el,MED,Europe
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,πλημμύρα αλβανία,2025-11-30T03:47:00+00:00,Albania,0.7011691858625858,0,2,el,MED,Europe
+'3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.6974562613209425,0,2,el,MED,Europe
+'859043b732',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2025-11-27T03:34:00+00:00,Greece,0.6839348166965414,0,2,el,MED,Europe
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,βροχόπτωση αλβανία,2025-12-01T04:03:00+00:00,Albania,0.6824384139479048,0,2,el,MED,Europe
+'2168928b82',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Πελοπόννησος,2025-12-11T03:46:00+00:00,Greece,0.6822246366273282,0,2,el,MED,Europe
+'26015c1155',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Κύπρος,2025-11-29T03:34:00+00:00,Cyprus,0.6818141109685588,0,2,el,MED,Europe
