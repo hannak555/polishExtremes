@@ -212,7 +212,7 @@ def storeCollection():
     global collectedNews
     print("Inside store")
     #cols = ['url', 'valid', 'domain', 'title', 'description', 'image', 'published', 'archive', 'content', 'quote', 'language','term', 'topic', 'feed', 'country', 'ipcc', 'continent']
-    cols = ['published', 'keyword', 'domain', 'language', 'valid', 'de', 'title', 'description', 'en', 'la', 'url', 'image', 'archive', 'content', 'quote', 'added']
+    cols = ['published', 'topic', 'term', 'domain', 'language', 'valid', 'de', 'title', 'description', 'en', 'la', 'url', 'image', 'archive', 'content', 'quote', 'added', 'feed', 'country', 'ipcc', 'continent']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])  
@@ -411,7 +411,7 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
         published = article['publishedAt']
     content = article['content']
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
-            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
+            'image':image, 'content':content, 'quote':'', 'language': language, 'term':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
 def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
