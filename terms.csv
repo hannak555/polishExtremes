@@ -1,25 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.7354156229582847,0,2,el,MED,Europe
+'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.6251032795145419,1,1,el,MED,Europe
 '10a1d9dbe1',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση ελλάδα,2025-11-25T03:37:00+00:00,Greece,0.6250500981390403,2,2,el,MED,Europe
-'edd8cedd5a',extremes,Storm,#b3b2b1,wmo,καταιγίδα κρήτι,2025-12-09T03:41:00+00:00,Greece,0.622875658525605,0,2,el,MED,Europe
 '4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.6012493282289773,1,1,el,MED,Europe
 '5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.5994658274824503,1,1,el,MED,Europe
 'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,ομίχλη Ιόνιον νησιά,2025-12-13T03:38:00+00:00,Greece,0.596584633150385,1,1,el,MED,Europe
 '7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.5912909706877292,1,2,el,MED,Europe
-'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2025-11-29T03:34:00+00:00,Greece,0.5894332002626547,0,2,el,MED,Europe
-'9ba71973b1',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Πελοπόννησος,2025-11-28T03:34:00+00:00,Greece,0.5847775540855514,0,2,el,MED,Europe
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.5836479630485026,1,1,el,MED,Europe
 '2168928b82',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Πελοπόννησος,2025-12-11T03:46:00+00:00,Greece,0.579890941133229,1,1,el,MED,Europe
-'26015c1155',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Κύπρος,2025-11-29T03:34:00+00:00,Cyprus,0.579541994323275,1,1,el,MED,Europe
 'd2fad4af62',extremes,Flood,#030ba1,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-08T03:45:00+00:00,Albania,0.5790544125779934,0,2,el,MED,Europe
 '8548c83b4d',extremes,Precipitation,#d60d2b,wmo,κατακρήμνιση θρακή,2025-11-27T03:34:00+00:00,Greece,0.5789134867798613,0,2,el,MED,Europe
 'e2e59c70ac',extremes,Precipitation,#d60d2b,wmo,νεροποντή κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.577112589105055,0,2,el,MED,Europe
 '1ce1cfc375',extremes,Storm,#b3b2b1,wmo,καταιγίδα θρακή,2025-11-28T03:34:00+00:00,Greece,0.576591131386947,1,1,el,MED,Europe
 '5e91180ff4',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή νησιά βορειοανατολικού Αιγαίου,2025-12-05T03:41:00+00:00,Greece,0.5748418201181564,0,2,el,MED,Europe
 '459ec4fcb5',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική sterea amp evvoia,2025-12-11T03:46:00+00:00,Greece,0.5733005260645179,1,1,el,MED,Europe
-'44e99ff4ca',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Πελοπόννησος,2025-12-05T03:41:00+00:00,Greece,0.5732523488684294,0,2,el,MED,Europe
 '5e28da80b6',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή κρίτι,2025-12-05T03:41:00+00:00,Greece,0.5718843994992658,0,2,el,MED,Europe
-'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.564659655959565,0,2,el,MED,Europe
 'c2f6e619a6',extremes,Precipitation,#d60d2b,wmo,βροχή νησιά βορειοανατολικού Αιγαίου,2025-11-27T03:34:00+00:00,Greece,0.5645799136253002,0,2,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.5643927851002676,1,1,el,MED,Europe
 '20640c5ef0',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.5640618078233693,0,2,el,MED,Europe
@@ -56,10 +50,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '400198ec2b',extremes,Thunderstorm,#53785a,wmo,καταιγίδα αττική,2025-11-27T03:34:00+00:00,Greece,0.5055021529235363,1,1,el,MED,Europe
 '41b02b5f99',extremes,Precipitation,#d60d2b,wmo,νεροποντή ανατολική στερεά amp Εύβοια,2025-11-27T03:34:00+00:00,Greece,0.5054456043869474,1,1,el,MED,Europe
 '3d78159313',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ελλάδα,2025-11-28T03:34:00+00:00,Greece,0.505412426304381,2,1,el,MED,Europe
+'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2025-11-29T03:34:00+00:00,Greece,0.5010182202232565,1,1,el,MED,Europe
 'f4d53c45ce',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Πελοπόννησος,2025-12-04T03:42:00+00:00,Greece,0.4974211981196146,1,1,el,MED,Europe
 '859043b732',extremes,Thunderstorm,#53785a,wmo,καταιγίδα νησιά βορειοανατολικού Αιγαίου,2025-11-27T03:34:00+00:00,Greece,0.4941429050632511,2,1,el,MED,Europe
 '1e71a7d427',extremes,Precipitation,#d60d2b,wmo,νεροποντή ανατολική Πελοπόννησος,2025-11-27T03:34:00+00:00,Greece,0.4927982073633093,1,1,el,MED,Europe
+'26015c1155',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Κύπρος,2025-11-29T03:34:00+00:00,Cyprus,0.49261069517478373,2,1,el,MED,Europe
 '0626237bf9',extremes,Flood,#030ba1,cmeter,πλημμύρα τίρανα,2025-12-06T03:33:00+00:00,Albania,0.4913467899399042,2,1,el,MED,Europe
+'44e99ff4ca',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Πελοπόννησος,2025-12-05T03:41:00+00:00,Greece,0.48726449653816495,1,1,el,MED,Europe
+'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.47996070756563025,1,1,el,MED,Europe
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.471079386839254,2,1,el,MED,Europe
 '52fecdb54e',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα Ιόνια νησιά,2025-11-26T03:37:00+00:00,Greece,0.4701154054465475,2,1,el,MED,Europe
 'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,βροχόπτωση αλβανία,2025-12-01T04:03:00+00:00,Albania,0.4490569504196434,4,1,el,MED,Europe
