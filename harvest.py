@@ -29,6 +29,7 @@ from dateutil import parser
 ##from datetime import date, timedelta, datetime, timezone
 
 from CreLanguageTranslate.LanguageTranslate import LanguageTranslate 
+from deep_translator import GoogleTranslator
 
 DATA_PATH = Path.cwd()
 
@@ -222,6 +223,23 @@ def storeCollection():
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])  
         df = removeDuplicates(df)
+
+        for index, column in df.iterrows():
+          lng = column['language']
+          if(not lng):
+            lng = 'auto'
+          txt = str(column['title']) + '. ' + str(column['description'])
+          try:
+            print(['inside repair: ', lng, column['de'], txt])
+            if(not column['de'] or pd.isna(column['de'])):
+              df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
+            if(not column['en'] or pd.isna(column['en'])):
+              df.loc[index,'en'] = GoogleTranslator(source=lng, target='en').translate(text=txt)
+            if(not column['la'] or pd.isna(column['la'])):
+              df.loc[index,'la'] = GoogleTranslator(source=lng, target='la').translate(text=txt)
+          except Exception as X:
+            print(["translation went wrong: ",  column]) 
+
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'cxsv')):
             os.mkdir(DATA_PATH / 'cxsv')
@@ -420,9 +438,27 @@ def extractData(article, language, keyWord, topic, feed, country, ipcc, continen
             'image':image, 'content':content, 'quote':'', 'language': language, 'term':keyWord, 'topic':topic, 'feed':feed, 'country':country, 'ipcc':ipcc, 'continent':continent}
     return data  
 
-def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
+def countSingleCharsInQuote(keyword, quote, case=True):
+    if(not case):
+        quote = quote.lower()
+        keyword = keyword.lower()
+    keywords = list(keyword.strip("'").replace(" ",""))
+    countFound = 0
+    countAll = 0
+    for keyw in keywords:
+      countAll += 1
+      if(keyw in quote):
+        countFound += 1
+    if(countAll>0):
+      print(['countSingleCharsInQuote', countFound, countAll])
+      return countFound/countAll
+    return 0
+
+def checkKeywordInQuote(keyword, quote, case=True, anyKey=False, singleChars=False):
     keyword = keyword.replace("+","").replace("-","")
     keywords = keyword.strip("'").split(" ")
+    if(singleChars):
+       keywords = list(keyword.strip("'").replace(" ",""))
     if(not case):
         keywords = keyword.strip("'").lower().split(" ")
         quote = quote.lower()
@@ -434,7 +470,6 @@ def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
       allFound = True
       for keyw in keywords:
         allFound = allFound and (keyw in quote)  
-
     return allFound
 
 def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
@@ -466,7 +501,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.7)
+             valid = max(valid,0.7)
       # add seldom keywords twice if
       if(not seldomDF.empty):
        keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
@@ -477,20 +512,21 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
+             valid = max(valid,0.65) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.6) 
+             valid = max(valid,0.6) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=False)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.55) 
+             valid = max(valid,0.55) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=True, anyKey=True)
@@ -498,7 +534,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.3) 
+             valid = max(valid,0.3) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=False, anyKey=True)
@@ -506,7 +542,21 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.2) 
+             valid = max(valid,0.2) 
+      if(language in ['zh','ja']):
+       if(not found):
+         for index2, column2 in termsLangDF.iterrows(): 
+           numFound = countSingleCharsInQuote(keyword, searchQuote+fullQuote, case=True)
+           if(numFound>valid):
+             valid = max(valid,numFound) 
+             foundKeywords = [keyword]
+             foundColumns = [column2]
+             found = True
+           elif(numFound==valid):  
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+             valid = max(valid,numFound) 
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
@@ -520,7 +570,14 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         foundArticles.append(data)
       else:
         data['term'] = keyWord
+        data['country'] = country
+        data['ipcc'] = ipcc
+        data['continent'] = continent
+        data['feed'] = feed
+        data['topic'] = topic
         #foundArticles.append(data)
+        if(language in ['zh','ja']):   
+          foundArticles.append(data)      
 
     return foundArticles
 
@@ -655,7 +712,7 @@ def inqRandomNews(maxCount=1):
             #"q='"+keyWord+"'&"
             "q="+urllib.parse.quote(keyWord)+"&"
             'pageSize='+str(pageSize)+'&'
-            'language='+language+'&'
+            'language='+nLang+'&'
             'page='+str(currPage)+'&'
             'sortBy='+sort+'&'
             'apiKey='+apiKey
