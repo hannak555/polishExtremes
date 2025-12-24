@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6dfc67df50',extremes,Flood,#030ba1,cmeter,πλημμύρα αλβανία,2025-11-30T03:47:00+00:00,Albania,0.4306055262678605,3,1,el,MED,Europe
 '400198ec2b',extremes,Thunderstorm,#53785a,wmo,καταιγίδα αττική,2025-11-27T03:34:00+00:00,Greece,0.4305769199850058,2,1,el,MED,Europe
 '41b02b5f99',extremes,Precipitation,#d60d2b,wmo,νεροποντή ανατολική στερεά amp Εύβοια,2025-11-27T03:34:00+00:00,Greece,0.4296287637289053,2,1,el,MED,Europe
-'7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.4280403095718843,3,1,el,MED,Europe
 'c585cfd7db',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία ανατολική Πελοπόννησος,2025-11-27T03:34:00+00:00,Greece,0.4279199413737557,5,1,el,MED,Europe
 'dfc27fa2c9',extremes,Thunderstorm,#53785a,wmo,χαλάζι σε νησιά βορειοανατολικού Αιγαίου,2025-11-29T03:34:00+00:00,Greece,0.425865487189768,2,1,el,MED,Europe
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.4216856533025431,3,1,el,MED,Europe
@@ -76,7 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.3681469513026597,4,1,el,MED,Europe
 'd887abe9ee',extremes,Earthquake,#870007,usgs,σεισμός πάνορμος,2025-11-27T03:33:00+00:00,Greece,0.3665136938663247,2,1,el,MED,Europe
 'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,ομίχλη Ιόνιον νησιά,2025-12-13T03:38:00+00:00,Greece,0.3663775378334801,4,1,el,MED,Europe
-'6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2025-11-29T03:34:00+00:00,Greece,0.36627237154970216,2,1,el,MED,Europe
+'6e109815e7',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση κεντρική μακεδονία,2025-11-29T03:34:00+00:00,Greece,0.3662723715497021,2,1,el,MED,Europe
 '22734a713a',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή δυτική Στερεά,2025-12-05T03:41:00+00:00,Greece,0.3647735643296138,2,1,el,MED,Europe
 'f4d53c45ce',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Πελοπόννησος,2025-12-04T03:42:00+00:00,Greece,0.3593868156414215,3,1,el,MED,Europe
 '9ba71973b1',extremes,Thunderstorm,#53785a,wmo,χαλάζι δυτική Πελοπόννησος,2025-11-28T03:34:00+00:00,Greece,0.3591265154027892,3,1,el,MED,Europe
