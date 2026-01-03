@@ -1,21 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Google,Google,ORG,0.5486111111111112,0.9375,el,1.8
-EMY,EMY,ORG,-0.41176470588235287,0.3137254901960784,el,1.7
-Papigo,Papigo,ORG,-0.6999999999999998,0.0,el,1.0
-EMAK,EMAK,ORG,0.0,0.0,el,1.0
-Vardousia,Vardousia,ORG,0.0,0.0,el,1.0
-The Statue of Liberty,The Statue of Liberty,ORG,-0.4,0.0,el,1.0
-NewsIT,NewsIT,ORG,0.0,0.0,el,1.0
-The Risk Assessment Committee,The Risk Assessment Committee,ORG,0.0,0.0,el,1.0
-Attica - Interministerial,Attica - Interministerial,ORG,-0.44999999999999996,0.0,el,1.0
-eastern,eastern,ORG,-0.2499278499278499,0.0,el,1.0
-Konitsa,Konitsa,ORG,-0.1875,0.0,el,1.0
-Adel,Adel,ORG,-0.6999999999999998,0.0,el,1.0
-Messinia -,Messinia -,ORG,0.0,0.0,el,1.0
-Finikounda,Finikounda,ORG,0.0,0.0,el,1.0
-Thrace,Thrace,ORG,-0.17499999999999996,0.0,el,1.0
-the Fire Department,the Fire Department,ORG,0.15,0.0,el,1.0
-Interior,Interior,ORG,-0.6999999999999998,0.0,el,1.0
-TarkasGreece,TarkasGreece,ORG,-0.12777777777777777,0.0,el,1.0
-Florina Bad,Florina Bad,ORG,-0.6999999999999998,0.0,el,1.0
-mercury,mercury,ORG,0.17424242424242423,0.0,el,1.0
+Google,Google,ORG,0.5486111111111112,0.9375,en,1.8
+EMY,EMY,ORG,-0.41176470588235287,0.3137254901960784,en,1.7
+Papigo,Papigo,ORG,-0.6999999999999998,0.0,en,1.0
+EMAK,EMAK,ORG,0.0,0.0,en,1.0
+Vardousia,Vardousia,ORG,0.0,0.0,en,1.0
+The Statue of Liberty,The Statue of Liberty,ORG,-0.4,0.0,en,1.0
+NewsIT,NewsIT,ORG,0.0,0.0,en,1.0
+The Risk Assessment Committee,The Risk Assessment Committee,ORG,0.0,0.0,en,1.0
+Attica - Interministerial,Attica - Interministerial,ORG,-0.44999999999999996,0.0,en,1.0
+eastern,eastern,ORG,-0.2499278499278499,0.0,en,1.0
+Konitsa,Konitsa,ORG,-0.1875,0.0,en,1.0
+Adel,Adel,ORG,-0.6999999999999998,0.0,en,1.0
+Messinia -,Messinia -,ORG,0.0,0.0,en,1.0
+Finikounda,Finikounda,ORG,0.0,0.0,en,1.0
+Thrace,Thrace,ORG,-0.17499999999999996,0.0,en,1.0
+the Fire Department,the Fire Department,ORG,0.15,0.0,en,1.0
+Interior,Interior,ORG,-0.6999999999999998,0.0,en,1.0
+TarkasGreece,TarkasGreece,ORG,-0.12777777777777777,0.0,en,1.0
+Florina Bad,Florina Bad,ORG,-0.6999999999999998,0.0,en,1.0
+mercury,mercury,ORG,0.17424242424242423,0.0,en,1.0
