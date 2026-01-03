@@ -1,0 +1,158 @@
+,phrase,label,sentiment,subjectivity,language,count
+|,|,CARDINAL,,,el,8.8
+Friday,Friday,DATE,,,el,7.1000000000000005
+today,today,DATE,,,el,5.500000000000001
+Thursday,Thursday,DATE,,,el,5.1
+the next few hours,the next few hours,TIME,,,el,4.8
+Bad,Bad,WORK_OF_ART,,,el,4.7
+tomorrow,tomorrow,DATE,,,el,4.6000000000000005
+Dodecanese,Dodecanese,NORP,,,el,4.300000000000001
+4.1,4.1,CARDINAL,,,el,4.2
+3.5,3.5,CARDINAL,,,el,3.4000000000000004
+first,first,ORDINAL,,,el,3.4000000000000004
+second,second,ORDINAL,,,el,3.3
+10,10,CARDINAL,,,el,3.2
+morning,morning,TIME,,,el,3.0999999999999996
+Christmas,Christmas,DATE,,,el,2.8
+tonight,tonight,TIME,,,el,2.8
+2025,2025,DATE,,,el,2.7
+48 hours,48 hours,TIME,,,el,2.6
+Sunday,Sunday,DATE,,,el,2.6
+the morning hours,the morning hours,TIME,,,el,2.6
+November,November,DATE,,,el,2.6
+yesterday,yesterday,DATE,,,el,2.5
+night,night,TIME,,,el,2.5
+New Year,New Year,EVENT,,,el,2.4
+three days,three days,DATE,,,el,2.0
+New Year's Day,New Year's Day,EVENT,,,el,1.9
+the festive three days - Snow,the festive three days - Snow,DATE,,,el,1.9
+the New Year,the New Year,DATE,,,el,1.9
+2 degrees,2 degrees,QUANTITY,,,el,1.9
+9,9,CARDINAL,,,el,1.8
+afternoon,afternoon,TIME,,,el,1.8
+Epirus,Epirus,NORP,,,el,1.8
+Wednesday,Wednesday,DATE,,,el,1.7
+8,8,CARDINAL,,,el,1.7
+2026,2026,DATE,,,el,1.7
+Ionian,Ionian,NORP,,,el,1.7
+Western,Western,NORP,,,el,1.7
+Saturday,Saturday,DATE,,,el,1.7
+New Year's Eve,New Year's Eve,EVENT,,,el,1.7
+Greek,Greek,NORP,,,el,1.2
+At least 23,At least 23,CARDINAL,,,el,1.1
+the coming days,the coming days,DATE,,,el,1.0
+Weather,Weather,WORK_OF_ART,,,el,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,el,1.0
+more than 90 km,more than 90 km,QUANTITY,,,el,1.0
+Statue of Liberty,Statue of Liberty,FAC,,,el,1.0
+Agios,Agios,NORP,,,el,1.0
+53 kilometers,53 kilometers,QUANTITY,,,el,1.0
+2026 - Freezing,2026 - Freezing,QUANTITY,,,el,1.0
+5.1,5.1,CARDINAL,,,el,1.0
+the next few days,the next few days,DATE,,,el,1.0
+the new year,the new year,DATE,,,el,1.0
+19 degrees - Frost,19 degrees - Frost,QUANTITY,,,el,1.0
+tomorrow Sunday,tomorrow Sunday,DATE,,,el,1.0
+Arabian,Arabian,NORP,,,el,1.0
+19 degrees,19 degrees,QUANTITY,,,el,1.0
+12/12,12/12,CARDINAL,,,el,1.0
+ten seconds,ten seconds,TIME,,,el,1.0
+4.1 Richter,4.1 Richter,QUANTITY,,,el,1.0
+about four seconds,about four seconds,TIME,,,el,1.0
+eight,eight,CARDINAL,,,el,1.0
+one and a half minutes,one and a half minutes,TIME,,,el,1.0
+the New Year - See,the New Year - See,EVENT,,,el,1.0
+3.6,3.6,CARDINAL,,,el,1.0
+| Weather | Frost | Shelly | Frost | Greece,| Weather | Frost | Shelly | Frost | Greece,WORK_OF_ART,,,el,1.0
+the first day,the first day,DATE,,,el,1.0
+"Today, New Year's Day","Today, New Year's Day",DATE,,,el,1.0
+three,three,CARDINAL,,,el,1.0
+Christmas Day,Christmas Day,DATE,,,el,1.0
+New Year's Weather: Footprint for 2026,New Year's Weather: Footprint for 2026,EVENT,,,el,1.0
+8 degrees,8 degrees,QUANTITY,,,el,1.0
+the week,the week,DATE,,,el,1.0
+Indian,Indian,NORP,,,el,1.0
+Wednesday afternoon,Wednesday afternoon,TIME,,,el,1.0
+the early afternoon,the early afternoon,TIME,,,el,1.0
+Attiki,Attiki,PRODUCT,,,el,1.0
+The day of,The day of,DATE,,,el,1.0
+Tuesday,Tuesday,DATE,,,el,1.0
+the small hours,the small hours,TIME,,,el,1.0
+recent years,recent years,DATE,,,el,1.0
+New Year's Weather | Weather | Bad,New Year's Weather | Weather | Bad,EVENT,,,el,1.0
+"Today, Monday, December 29","Today, Monday, December 29",DATE,,,el,1.0
+New Year's Weather,New Year's Weather,EVENT,,,el,1.0
+year,year,DATE,,,el,1.0
+3.8,3.8,CARDINAL,,,el,1.0
+Attica Earthquake | Earthquake,Attica Earthquake | Earthquake,EVENT,,,el,1.0
+2,2,CARDINAL,,,el,1.0
+Saudi,Saudi,NORP,,,el,1.0
+the old year,the old year,DATE,,,el,1.0
+"Thursday, December 18","Thursday, December 18",DATE,,,el,1.0
+5,5,CARDINAL,,,el,1.0
+04-01-2026,04-01-2026,DATE,,,el,1.0
+350,350,CARDINAL,,,el,1.0
+24.3 kilometers,24.3 kilometers,QUANTITY,,,el,1.0
+6 kilometers,6 kilometers,QUANTITY,,,el,1.0
+noon,noon,TIME,,,el,1.0
+Attica:,Attica:,WORK_OF_ART,,,el,1.0
+midnight,midnight,TIME,,,el,1.0
+the next hours,the next hours,TIME,,,el,1.0
+| Weather |,| Weather |,WORK_OF_ART,,,el,1.0
+12 hours,12 hours,TIME,,,el,1.0
+the last two days,the last two days,DATE,,,el,1.0
+Adel,Adel,PRODUCT,,,el,1.0
+Red Code,Red Code,WORK_OF_ART,,,el,1.0
+4.8,4.8,CARDINAL,,,el,1.0
+112 rang,112 rang,MONEY,,,el,1.0
+112,112,CARDINAL,,,el,1.0
+an hour,an hour,TIME,,,el,1.0
+about 7:30,about 7:30,TIME,,,el,1.0
+Attica - Emergency,Attica - Emergency,WORK_OF_ART,,,el,1.0
+1 kilometer,1 kilometer,QUANTITY,,,el,1.0
+the last few days,the last few days,DATE,,,el,1.0
+Albania: Biblical,Albania: Biblical,WORK_OF_ART,,,el,1.0
+hundreds,hundreds,CARDINAL,,,el,1.0
+Deadly,Deadly,PRODUCT,,,el,1.0
+Hundreds,Hundreds,CARDINAL,,,el,1.0
+next week,next week,DATE,,,el,1.0
+Vonitsa,Vonitsa,WORK_OF_ART,,,el,1.0
+dozens,dozens,CARDINAL,,,el,1.0
+Five,Five,CARDINAL,,,el,1.0
+the spring of 2024,the spring of 2024,DATE,,,el,1.0
+"December 1, 2025","December 1, 2025",DATE,,,el,1.0
+a few days,a few days,DATE,,,el,1.0
+the National Observatory of Athens,the National Observatory of Athens,FAC,,,el,1.0
+late afternoon,late afternoon,TIME,,,el,1.0
+200 mm,200 mm,QUANTITY,,,el,1.0
+the middle of the week,the middle of the week,DATE,,,el,1.0
+45 millimeters,45 millimeters,QUANTITY,,,el,1.0
+4.7,4.7,CARDINAL,,,el,1.0
+| Precipitation,| Precipitation,TIME,,,el,1.0
+the afternoon,the afternoon,TIME,,,el,1.0
+the National Observatory,the National Observatory,FAC,,,el,1.0
+110,110,CARDINAL,,,el,1.0
+100 millimeters,100 millimeters,QUANTITY,,,el,1.0
+265 millimeters,265 millimeters,QUANTITY,,,el,1.0
+about 113 kilometers,about 113 kilometers,QUANTITY,,,el,1.0
+4.3,4.3,CARDINAL,,,el,1.0
+daily,daily,DATE,,,el,1.0
+Monday,Monday,DATE,,,el,1.0
+6 in the afternoon - How,6 in the afternoon - How,TIME,,,el,1.0
+76 millimeters,76 millimeters,QUANTITY,,,el,1.0
+two-day,two-day,DATE,,,el,1.0
+3.2,3.2,CARDINAL,,,el,1.0
+Annual,Annual,DATE,,,el,1.0
+Greeks,Greeks,NORP,,,el,1.0
+Google,Google,WORK_OF_ART,,,el,1.0
+Year,Year,DATE,,,el,1.0
+7,7,CARDINAL,,,el,1.0
+the next 48 hours,the next 48 hours,TIME,,,el,1.0
+| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,| Weather | Thunderstorms | Hail | Ministry of Civil Protection | Greece,WORK_OF_ART,,,el,1.0
+Three days,Three days,DATE,,,el,1.0
+Weather |,Weather |,EVENT,,,el,1.0
+days,days,DATE,,,el,1.0
+the roughest days,the roughest days,DATE,,,el,1.0
+Two,Two,CARDINAL,,,el,1.0
+5 kilometers,5 kilometers,QUANTITY,,,el,1.0
+New Year's,New Year's,EVENT,,,el,1.0
