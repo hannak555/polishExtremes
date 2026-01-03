@@ -1,24 +1,22 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5e28da80b6',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή κρίτι,2025-12-05T03:41:00+00:00,Greece,0.4861017395743759,2,1,el,MED,Europe
-'fe6660da97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κύπρος,2025-12-08T03:44:00+00:00,Cyprus,0.478760985950361,2,1,el,MED,Europe
-'5375aba0f4',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νησιά βορειοανατολικού Αιγαίου,2025-11-30T03:46:00+00:00,Greece,0.4773962384214068,1,1,el,MED,Europe
 'a4e5430606',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα ανατολική Στερεά αμπ Εύβοια,2025-12-04T03:42:00+00:00,Greece,0.4578883696165796,2,1,el,MED,Europe
 '20c8ca13a3',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία νησιά Δωδεκάνησα,2025-12-04T03:42:00+00:00,Greece,0.4574389084989534,2,1,el,MED,Europe
 '4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.4520533533964144,2,1,el,MED,Europe
 'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.4520230330367565,3,1,el,MED,Europe
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,σεισμός ελλάδα,2025-12-02T03:41:00+00:00,Greece,0.4365981399475555,3,1,el,MED,Europe
-'cb2dbcfa33',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Στερεά,2025-12-03T03:40:00+00:00,Greece,0.433285540199527,1,1,el,MED,Europe
 '9797aa6299',extremes,Drought,#edc291,edo,έλλειψη βροχής Κύπρος,2025-12-16T03:47:00+00:00,Cyprus,0.4288627729725026,3,1,el,MED,Europe
 'f4d53c45ce',extremes,Precipitation,#d60d2b,wmo,βροχή δυτική Πελοπόννησος,2025-12-04T03:42:00+00:00,Greece,0.4228080184016724,2,1,el,MED,Europe
 '2168928b82',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Πελοπόννησος,2025-12-11T03:46:00+00:00,Greece,0.4189712049687579,3,1,el,MED,Europe
-'d2fad4af62',extremes,Flood,#030ba1,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-08T03:45:00+00:00,Albania,0.41836681308760015,2,1,el,MED,Europe
-'0626237bf9',extremes,Flood,#030ba1,cmeter,πλημμύρα tirana,2025-12-06T03:33:00+00:00,Albania,0.4176447714489186,3,1,el,MED,Europe
+'d2fad4af62',extremes,Flood,#030ba1,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-08T03:45:00+00:00,Albania,0.4183668130876001,2,1,el,MED,Europe
 'e2e59c70ac',extremes,Precipitation,#d60d2b,wmo,νεροποντή κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.4169638456284022,2,1,el,MED,Europe
 '5e91180ff4',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή νησιά βορειοανατολικού Αιγαίου,2025-12-05T03:41:00+00:00,Greece,0.415323215035368,3,1,el,MED,Europe
 '459ec4fcb5',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική sterea amp evvoia,2025-12-11T03:46:00+00:00,Greece,0.4142096300816141,5,1,el,MED,Europe
+'5e28da80b6',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή κρίτι,2025-12-05T03:41:00+00:00,Greece,0.4131864786382195,3,1,el,MED,Europe
 '20640c5ef0',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.4075346561523843,2,1,el,MED,Europe
+'fe6660da97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κύπρος,2025-12-08T03:44:00+00:00,Cyprus,0.40694683805780685,3,1,el,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βραζιλία,2025-12-14T03:49:00+00:00,Brazil,0.4066834683357608,1,2,el,SAM,South-America
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,πυρκαγιά στην Ινδία,2025-12-19T03:46:00+00:00,India,0.4059945810344169,1,2,el,SAS,Asia
+'5375aba0f4',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση νησιά βορειοανατολικού Αιγαίου,2025-11-30T03:46:00+00:00,Greece,0.4057868026581958,2,1,el,MED,Europe
 'ebf0baeb9e',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2025-12-03T03:40:00+00:00,Albania,0.402724656655769,1,1,el,MED,Europe
 '7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2025-12-05T03:41:00+00:00,Greece,0.4004778288861001,4,1,el,MED,Europe
 '7015f6a761',extremes,Thunderstorm,#53785a,wmo,χαλάζι κεντρική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.3919153095718842,3,1,el,MED,Europe
@@ -26,26 +24,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91a6857ff0',extremes,Earthquake,#870007,usgs,σεισμός χαλανδρίτσα,2025-12-08T03:44:00+00:00,Greece,0.3789472737144446,2,1,el,MED,Europe
 '6b6cc8fad6',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση δυτική Πελοπόννησος,2025-12-03T03:40:00+00:00,Greece,0.3765357261521273,2,1,el,MED,Europe
 'cc10b704a7',extremes,Fog,#d60d2b,wmo,ομίχλη θεσσαλία,2025-12-15T03:54:00+00:00,Greece,0.3741590453033603,7,1,el,MED,Europe
-'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.3737367475287491,1,1,el,MED,Europe
 '5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.3694557797405641,4,1,el,MED,Europe
+'cb2dbcfa33',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Στερεά,2025-12-03T03:40:00+00:00,Greece,0.36829270916959794,2,1,el,MED,Europe
+'0626237bf9',extremes,Flood,#030ba1,cmeter,πλημμύρα tirana,2025-12-06T03:33:00+00:00,Albania,0.3549980557315808,4,1,el,MED,Europe
 '44e99ff4ca',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Πελοπόννησος,2025-12-05T03:41:00+00:00,Greece,0.3520485987488241,3,1,el,MED,Europe
-'cac8488dd8',extremes,Fog,#d60d2b,wmo,ομίχλη Δωδεκάνησα,2025-12-19T03:46:00+00:00,Greece,0.3505331620935228,5,1,el,MED,Europe
 'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.3467716112161678,3,1,el,MED,Europe
 'd5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.3466077191497018,4,1,el,MED,Europe
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,χαλάζι κατάρ,2025-12-13T03:38:00+00:00,Qatar,0.3458287632661347,2,1,el,ARP,Asia
-'cebc877b2d',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Πελοπόννησος,2025-12-19T03:46:00+00:00,Greece,0.34498783189903787,4,1,el,MED,Europe
+'cebc877b2d',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Πελοπόννησος,2025-12-19T03:46:00+00:00,Greece,0.3449878318990378,4,1,el,MED,Europe
 '385f9f8a7c',extremes,Fog,#d60d2b,wmo,ομίχλη κυκλάδες,2025-12-19T03:46:00+00:00,Greece,0.3259283558954823,4,1,el,MED,Europe
 'e68b3f4750',extremes,Precipitation,#d60d2b,wmo,βροχή κεντρική Μακεδονία,2025-12-07T03:47:00+00:00,Greece,0.3250269429972767,2,1,el,MED,Europe
+'af3396aaaf',extremes,Drought,#edc291,edo,ξηρασία Ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.31767623539943673,2,1,el,MED,Europe
 'e2d6d878a3',extremes,Precipitation,#d60d2b,cmeter,κατακρήμνιση durres,2025-12-12T03:46:00+00:00,Albania,0.3173364635713804,3,1,el,MED,Europe
-'4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.3138559071438275,5,1,el,MED,Europe
 '22734a713a',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή δυτική Στερεά,2025-12-05T03:41:00+00:00,Greece,0.3100575296801717,3,1,el,MED,Europe
-'be4e178bab',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Ουρουγουάη,2025-12-02T03:41:00+00:00,Uruguay,0.3048721290934512,0,1,el,SES,South-America
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.3046678845110873,5,1,el,MED,Europe
 '7dcb16d935',extremes,Earthquake,#870007,usgs,σεισμός βόρειος Ατλαντικός ωκεανός,2025-12-06T03:32:00+00:00,,0.3001563473473463,1,1,el,EAO,Atlantic Ocean
 'ca11d03786',extremes,Thunderstorm,#53785a,wmo,χαλάζι Ισλανδία,2025-12-12T03:45:00+00:00,Iceland,0.3000699067150237,1,1,el,GIC,Europe
 '1bd470d857',extremes,Cold Wave,#a7e9fa,wmo,παγώνει την Κίνα,2025-12-10T03:45:00+00:00,China,0.3000692718438866,1,1,el,EAS,Asia
-'232c35e7b5',extremes,Flood,#030ba1,wmo,flashflood skagit wa,2025-12-10T03:45:00+00:00,United States,0.3000520300125761,0,1,el,CNA,North-America
 'c58f3e6e04',extremes,Fog,#d60d2b,wmo,ομίχλη κεντρική μακεδονία,2025-12-11T03:46:00+00:00,Greece,0.3000255432109335,5,1,el,MED,Europe
+'cac8488dd8',extremes,Fog,#d60d2b,wmo,ομίχλη Δωδεκάνησα,2025-12-19T03:46:00+00:00,Greece,0.29795318777949437,6,1,el,MED,Europe
 'ab90cfcdd4',extremes,Drought,#edc291,edo,ξηρασία αλβανία,2025-12-15T03:54:00+00:00,Albania,0.2880569838949499,2,1,el,MED,Europe
 '469687aa19',extremes,Drought,#edc291,edo,έλλειψη βροχής Αλβανία,2025-12-05T03:41:00+00:00,Albania,0.2864903231666295,2,1,el,MED,Europe
 '41016f45c9',extremes,Precipitation,#d60d2b,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-10T03:45:00+00:00,Albania,0.2834359738115246,4,1,el,MED,Europe
@@ -54,24 +51,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '648c26f911',extremes,Drought,#edc291,edo,έλλειψη βροχής ελλάδα,2025-12-07T03:47:00+00:00,Greece,0.2741696460943518,3,1,el,MED,Europe
 '9060b1f3e4',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα kriti,2025-12-08T03:44:00+00:00,Greece,0.27356295973823,3,1,el,MED,Europe
 'f2948297cc',extremes,Precipitation,#d60d2b,wmo,βροχή Κυκλάδες,2025-12-07T03:47:00+00:00,Greece,0.2669082075787767,3,1,el,MED,Europe
+'4c7fd8a889',extremes,Fog,#d60d2b,wmo,ομίχλη ανατολική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.2667775210722534,6,1,el,MED,Europe
 '5ae78b36fe',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική Μακεδονία,2025-12-13T03:38:00+00:00,Greece,0.2659861723161715,6,1,el,MED,Europe
 '8a654473a4',extremes,Drought,#edc291,edo,ξηρασία sao tome and principe,2025-12-02T03:41:00+00:00,Sao Tome and Principe,0.2659355972009389,1,1,el,WAF,Africa
 'bf2b5a5b4b',extremes,Fog,#d60d2b,wmo,ομίχλη Ιόνιον νησιά,2025-12-13T03:38:00+00:00,Greece,0.2647077710846893,6,1,el,MED,Europe
 '5a20612e67',extremes,Drought,#edc291,edo,έλλειψη βροχής Τρινιδάδ και Τομπάγκο,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.2633964294009321,1,1,el,NSA,North-America
-'2407b3a8ab',extremes,Drought,#edc291,edo,ξηρότητα μπουρούντι,2025-12-03T03:40:00+00:00,Burundi,0.26194633353731955,1,1,el,SEAF,Africa
+'2407b3a8ab',extremes,Drought,#edc291,edo,ξηρότητα μπουρούντι,2025-12-03T03:40:00+00:00,Burundi,0.2619463335373195,1,1,el,SEAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,νεροποντή Βραζιλία,2025-12-18T03:44:00+00:00,Brazil,0.2617450873728926,1,1,el,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,ξηρασία ισημερινή γουινέα,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.2616682886476174,1,1,el,WAF,Africa
 '989439d143',extremes,Snow&Ice,#d60d2b,wmo,πάγος Αιθιοπία,2025-12-09T03:41:00+00:00,Ethiopia,0.2614143323870876,1,1,el,NEAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,έλλειψη βροχής Ισημερινή Γουινέα,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.2610809309296003,1,1,el,WAF,Africa
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,καταιγίδα καταιγίδα άσθμα βικτορία,2025-12-12T03:46:00+00:00,Australia,0.2609046734147468,1,1,el,SAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,νεροποντή Νέα Ζηλανδία,2025-12-14T03:49:00+00:00,New Zealand,0.2597761259094667,2,1,el,NZ,Oceania
-'95d130fbc5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Ουρουγουάη,2025-12-02T03:41:00+00:00,Uruguay,0.25924465188462154,1,1,el,SES,South-America
+'95d130fbc5',extremes,Storm,#b3b2b1,wmo,καταιγίδα Ουρουγουάη,2025-12-02T03:41:00+00:00,Uruguay,0.2592446518846215,1,1,el,SES,South-America
+'be4e178bab',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Ουρουγουάη,2025-12-02T03:41:00+00:00,Uruguay,0.2591413097294335,1,1,el,SES,South-America
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,κυκλώνας κυκλώνας επιχορήγηση Katherine πλημμύρες τρένο εκτροχιασμός χημική διαρροή,2025-12-01T04:03:00+00:00,Australia,0.2591302984579078,1,1,el,NAU,Oceania
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αργεντινή,2025-12-01T04:02:00+00:00,Argentina,0.2591265669700415,1,1,el,SES,South-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,καταιγίδα αυστραλία,2025-12-07T03:47:00+00:00,Australia,0.2589990534029471,2,1,el,SAU,Oceania
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Χιλή,2025-12-04T03:42:00+00:00,Chile,0.2588002584796494,1,1,el,SWS,South-America
 'c85db986fe',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Μαδαγασκάρη,2025-12-06T03:32:00+00:00,Madagascar,0.258701148596513,1,1,el,MDG,Africa
-'a2c72301a8',extremes,Drought,#edc291,edo,ξηρασία Καμερούν,2025-12-08T03:45:00+00:00,Cameroon,0.2586153776418636,1,1,el,CAF,Africa
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας νότια Αφρική,2025-12-01T04:02:00+00:00,South Africa,0.2585682837785024,1,1,el,WSAF,Africa
 '8be002d270',extremes,Drought,#edc291,edo,έλλειψη βροχής Βενεζουέλα,2025-12-02T03:41:00+00:00,Venezuela,0.2585569729723719,1,1,el,NSA,South-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,χιονοστιβάδα Καναδάς,2025-12-10T03:45:00+00:00,Canada,0.2585292280341497,1,1,el,NEN,North-America
@@ -93,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42eb55f644',extremes,Precipitation,#d60d2b,wmo,βροχόπτωση libya,2025-12-04T03:42:00+00:00,Libya,0.2577649447597319,1,1,el,SAH,Africa
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,βροχή νησιά Σολομώντα,2025-12-09T03:41:00+00:00,Solomon Islands,0.2577262696565561,1,1,el,EPO,Oceania
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,καταιγίδα νότια Αφρική,2025-12-07T03:47:00+00:00,South Africa,0.2577139826147459,1,1,el,WSAF,Africa
-'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,τσουνάμι γιακουτάτ,2025-12-07T03:46:00+00:00,Alaska,0.2575876917205494,1,1,el,NWN,North-America
 '0631ca1034',extremes,Wildfire,#d60d2b,wmo,wildfire δημοκρατία της βόρειας οσετίας αλανίας,2025-12-04T03:42:00+00:00,Russia,0.2575483261347391,1,1,el,ESB,Europe
 'ee17683783',extremes,Tropical Cyclone,#4f4f4f,wmo,τυφώνας Φιλιππίνες,2025-12-04T03:42:00+00:00,Philippines,0.2574589723030061,1,1,el,SEA,Asia
 '8f00e2675b',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αιθιοπία,2025-12-11T03:46:00+00:00,Ethiopia,0.2573599199365894,1,1,el,NEAF,Africa
@@ -194,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,βροχή Καναδάς,2025-12-01T04:02:00+00:00,Canada,0.2550899126926759,1,1,el,NEN,North-America
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,χιόνι γέρικο κοράκι,2025-12-02T03:41:00+00:00,Canada,0.2550819243722469,1,1,el,NEN,North-America
 '575ec472b2',extremes,Cold Wave,#a7e9fa,wmo,παγωμένη κομητεία qitai,2025-12-12T03:45:00+00:00,China,0.2550774585064211,2,1,el,EAS,Asia
+'232c35e7b5',extremes,Flood,#030ba1,wmo,flashflood skagit wa,2025-12-10T03:45:00+00:00,United States,0.25504422551068967,1,1,el,CNA,North-America
 '6977afac24',extremes,Volcano,#b83202,eonet,ηφαίστειο puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.229987305239917,2,1,el,NWS,South-America
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,τροπικός κυκλώνας 08p,2025-12-16T03:46:00+00:00,,0.2291048221314881,2,1,el,SPO,Pacific Ocean
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,κρύο κύμα Βικτώρια,2025-12-04T03:42:00+00:00,Australia,0.2288483482482044,2,1,el,SAU,Oceania
@@ -219,11 +216,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a999041fe7',extremes,Precipitation,#d60d2b,wmo,νεροποντή Λιβύη,2025-12-05T03:41:00+00:00,Libya,0.2200172807695243,2,1,el,SAH,Africa
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας reg. 4 κορδιέρες,2025-12-04T03:42:00+00:00,Chile,0.2199074171591552,2,1,el,SWS,South-America
 'dc8be80c47',extremes,Drought,#edc291,edo,ξηρασία νησιά Φερόες,2025-12-05T03:41:00+00:00,Faroe Islands,0.2198525100808949,2,1,el,NEU,Europe
-'912d7e568c',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Ρωσία,2025-12-07T03:47:00+00:00,Russia,0.21956038316348528,2,1,el,ESB,Europe
+'912d7e568c',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Ρωσία,2025-12-07T03:47:00+00:00,Russia,0.2195603831634852,2,1,el,ESB,Europe
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,καταιγίδα Βανουάτου,2025-12-06T03:32:00+00:00,Vanuatu,0.2193343854768005,2,1,el,SPO,Oceania
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Αυστραλία,2025-12-09T03:41:00+00:00,Australia,0.2192625299461562,2,1,el,CAU,Oceania
-'7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,έντονος καιρός Ζιμπάμπουε,2025-12-05T03:41:00+00:00,Zimbabwe,0.21920080298896494,2,1,el,ESAF,Africa
+'7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,έντονος καιρός Ζιμπάμπουε,2025-12-05T03:41:00+00:00,Zimbabwe,0.2192008029889649,2,1,el,ESAF,Africa
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.2191366581183937,2,1,el,SES,South-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,τσουνάμι γιακουτάτ,2025-12-07T03:46:00+00:00,Alaska,0.218949537962467,2,1,el,NWN,North-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Τανζανία,2025-12-11T03:46:00+00:00,Tanzania,0.218774902153021,2,1,el,SEAF,Africa
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,el,ARP,Asia
 '4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Αιθιοπία,2025-12-12T03:45:00+00:00,Ethiopia,0.2180575078763524,2,1,el,NEAF,Africa
