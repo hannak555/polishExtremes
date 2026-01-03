@@ -72,8 +72,8 @@ oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', del
 newsDf = getNewsDF()
 print(newsDf)   
 
-keywordsNewsDF = pd.merge(keywordsDF, newsDf, how='left', left_on=['keyword'], right_on=['keyword'])
-print(keywordsNewsDF)  
+## keywordsNewsDF = pd.merge(keywordsDF, newsDf, how='left', left_on=['keyword'], right_on=['keyword'])
+## print(keywordsNewsDF)  
 
 newsDf['subjectivity'] = 0.0
 newsDf['sentiment'] = 0.0
