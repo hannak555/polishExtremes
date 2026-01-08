@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'cd28fc481a',extremes,Fog,#d60d2b,wmo,ομίχλη ελλάδα,2025-12-11T03:46:00+00:00,Greece,0.7354156229582847,0,1,el,MED,Europe
+'5ce15877cd',extremes,Fog,#d60d2b,wmo,ομίχλη ήπειρος,2025-12-11T03:46:00+00:00,Greece,0.7077612188370623,0,1,el,MED,Europe
+'6dfc67df50',extremes,Flood,#030ba1,cmeter,πλημμύρα αλβανία,2025-11-30T03:47:00+00:00,Albania,0.7011691858625858,0,1,el,MED,Europe
+'ab3b052049',extremes,Precipitation,#d60d2b,cmeter,βροχόπτωση αλβανία,2025-12-01T04:03:00+00:00,Albania,0.6824384139479048,0,1,el,MED,Europe
+'d5d7a11479',extremes,Drought,#edc291,edo,ξηρασία Κύπρος,2025-12-09T03:41:00+00:00,Cyprus,0.6639915118826678,0,1,el,MED,Europe
+'7fa9213218',extremes,Thunderstorm,#53785a,wmo,χαλάζι θεσσαλία,2025-12-05T03:41:00+00:00,Greece,0.6502260746974967,0,1,el,MED,Europe
 'a4e5430606',extremes,Thunderstorm,#53785a,wmo,έντονα καιρικά φαινόμενα ανατολική Στερεά αμπ Εύβοια,2025-12-04T03:42:00+00:00,Greece,0.6337555288810791,2,1,el,MED,Europe
+'4130a75ccf',extremes,Thunderstorm,#53785a,wmo,χαλάζι ελλάδα,2025-12-04T03:42:00+00:00,Greece,0.6235822863618193,0,1,el,MED,Europe
 'f5584b5068',extremes,Fog,#d60d2b,wmo,ομίχλη δυτική στέρεα,2025-12-12T03:45:00+00:00,Greece,0.5836479630485026,3,1,el,MED,Europe
+'d2fad4af62',extremes,Flood,#030ba1,cmeter,ελληνοαλβανικές πλημμύρες,2025-12-08T03:45:00+00:00,Albania,0.5790544125779934,0,1,el,MED,Europe
+'44e99ff4ca',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Πελοπόννησος,2025-12-05T03:41:00+00:00,Greece,0.5732523488684294,0,1,el,MED,Europe
 '5e28da80b6',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή κρίτι,2025-12-05T03:41:00+00:00,Greece,0.5718843994992658,1,1,el,MED,Europe
+'b8f9601f46',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή ανατολική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.564659655959565,0,1,el,MED,Europe
 '20640c5ef0',extremes,Precipitation,#d60d2b,wmo,νεροποντή δυτική Μακεδονία,2025-12-04T03:42:00+00:00,Greece,0.5640618078233693,1,1,el,MED,Europe
 'fe6660da97',extremes,Precipitation,#d60d2b,wmo,νεροποντή Κύπρος,2025-12-08T03:44:00+00:00,Cyprus,0.5632482187651306,2,1,el,MED,Europe
 '819daafd36',extremes,Thunderstorm,#53785a,wmo,καταιγίδα ιοννήσια,2025-12-03T03:40:00+00:00,Greece,0.5421276804229661,2,1,el,MED,Europe
@@ -118,10 +128,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,βροχή νησιά Σολομώντα,2025-12-09T03:41:00+00:00,Solomon Islands,0.2190673292080726,2,1,el,EPO,Oceania
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,καταρρακτώδης βροχή Τανζανία,2025-12-11T03:46:00+00:00,Tanzania,0.218774902153021,2,1,el,SEAF,Africa
 '8f00e2675b',extremes,Snow&Ice,#d60d2b,wmo,παγετός Αιθιοπία,2025-12-11T03:46:00+00:00,Ethiopia,0.218755931946101,2,1,el,NEAF,Africa
-'2876c1c93a',extremes,Landslide,#572c03,wmo,κατολίσθηση λάσπης Νορβηγία,2025-12-10T03:45:00+00:00,Norway,0.21862710592108897,2,1,el,NEU,Europe
+'2876c1c93a',extremes,Landslide,#572c03,wmo,κατολίσθηση λάσπης Νορβηγία,2025-12-10T03:45:00+00:00,Norway,0.2186271059210889,2,1,el,NEU,Europe
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,κακοκαιρία νότια Αφρική,2025-12-12T03:45:00+00:00,South Africa,0.2186196513982658,2,1,el,WSAF,Africa
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας Βραζιλία,2025-12-14T03:49:00+00:00,Brazil,0.2185838158588813,2,1,el,SAM,South-America
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Ρωσία,2025-12-10T03:45:00+00:00,Russia,0.21849053855613554,2,1,el,ESB,Europe
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,κύμα καύσωνα Ρωσία,2025-12-10T03:45:00+00:00,Russia,0.2184905385561355,2,1,el,ESB,Europe
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,καταιγίδα Μπαχρέιν,2025-12-19T03:46:00+00:00,Bahrain,0.2181541511140085,2,1,el,ARP,Asia
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,κύμα καταιγίδας amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.2181292385787055,2,1,el,NWS,South-America
 '4ae7b6e63c',extremes,Snow&Ice,#d60d2b,wmo,παγωμένη Αιθιοπία,2025-12-12T03:45:00+00:00,Ethiopia,0.2180575078763524,2,1,el,NEAF,Africa
